@@ -8,8 +8,6 @@ lazy val root = project
     version := "0.1.0-SNAPSHOT",
     scalaVersion := scalaVersion_3,
     libraryDependencies ++= Seq(
-      "org.slf4j" % "slf4j-api" % "2.0.11",
-      "ch.qos.logback" % "logback-classic" % "1.4.14",
       "org.scalatest" %% "scalatest" % "3.2.17" % "test"
     )
   )
