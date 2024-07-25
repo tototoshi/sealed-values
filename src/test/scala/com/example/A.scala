@@ -10,4 +10,3 @@ case object B2 extends A2
 case object C2 extends A2
 case object D2 extends A2
 case class E2(a: Int) extends A2
-
